@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "document-reader-240008",
+  "private_key_id": "28d20de9bb533288aab01e7a2834a8f21c41d2c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXuKjaS6TZFnnE\nLvZDlNC1hgn7fSRjHO9offK7iDBdfUwI2C+aTODfmjK5NZhQbRd1xPNAkat28u+2\nz/x9cv8clcRO0FVthZF+YlFz4JRqIm4fYyN7tXAM7Mx+Bdq6tnlSe3B9Blpd6gS+\nygyV/x3HTHQ9cIUb+n8672nkJWcxHbsNOUYO5ItPhbw99/VmjWnIP87gHg84QQas\njI5g2y3A689GccPGfix5yRZpbW/bN+9avlVL8LcsM73xp5AwUCZCYOPWpMsj0Ky+\n2S0IsdpahMuFHAuJY8Jh25Y3VOW7KLFNcFNTqVlIdA9hixyg7DuEDJZ0igj2239l\n2AB00dmLAgMBAAECggEAUOtAT45zeklPiNNS5jvi5Eyw3ujs5s7aUVh5XnYyKkeP\nZ3vss1UmP0ogv8/GYFjjpXYpBy39YyOy3uD65fXmk0rsteG5QdmKH53yzuRN19gt\nddGi5EtFilujQ5yflU1QiiuqoQNqj3Lyr7yr5vIpMfLQYaGdFMcsxac8Eewj3syG\n6gn7KVu6Y30Naao3Ptrn2mhVKBjpWa5GHivQEWZoRL6Fc4Ok21OWHuTgM08a9OLy\njSfXbGJVWkhT67pothIyWHf2o70c6LY+00Bp0/IYI7UnRAyfCYA2LFl+HqFvvUge\nH8BtuO83Mxt1apSarfwbx/QhMpAN85w71vEmBU1hcQKBgQD9W4sDXtwm1zHGQhnS\naWFnc0sZNfkyidx+RMdnPURI/VW2RJ6Ih/l4ejAC1O6OUf9zjtccSKL4tFQofIJR\n9D+xob6hRQ4i5Prd0uvO44Jza6HA5B8MBhRPZRQv9pykqINjk/Ps2wXUAd1twyhC\np7KoxHOZs4RGeiOJtXbVWM1MmwKBgQDZ+KD/MGaocnCUAvE9vDoDWV/edHo00e1s\n6hB98ugYoyExnnln8HBJu/O0P3NgZKpDErn5q6aS5aKHBMp5fNJPCcvjBy4hWddJ\nX7Ovxdm5Zk5Dp/4V3T0X9Q+PXS3hkDE1tmCAuElhSzSD40VqPwyu4TvuSaO/cIRr\nLrtUKkZd0QKBgQDjjI2NKGyYIdydkQ66EVWfYUiIyxYW0wULD2D8k2U6HPYXbwfn\n3iAsmal3UaE0h+bj9d2zlHVy5BtWBYXSb4mpU3jwRSJOKtQ52M9bkLDAU2IC6aAM\n34TsTf9UmKzVolfnXqHNEGXqpQYoKAiH3TA0LcUZvcbGubojW6zwLwKskwKBgG8r\nSGl+tQz6eQJ0Uber1Wa54ZRikaV43//pjQm/prJSGO7mpYLmdU6V5qCqr9yc2t2k\nomd9LVLEfdUhE2dMyzJ2i585nURzPsL0ZX+jh/zv+cC14HgkQzGB0jLLUkg1s3Ny\nldtwojRWF+2gL1oV2BElXNyWgEZ2S4Mi7XXqrcLRAoGBALWPGdx4Nc/RBNeu2jyy\nJagbnAc3KDrD6HxRXeAiePmG2V88bD7E7GBeR7znqSsPhonKpohmwA+MLz3zzyy8\nliZg8l2jQIZ4JgGM9wD8BOCqPLAIbWz9rPy3Asfwsmj6ydz8Gxq8Sa4yz9kw2WGD\nQhJ5YOEftuBwcI7Q78qBXoh1\n-----END PRIVATE KEY-----\n",
+  "client_email": "platonian@document-reader-240008.iam.gserviceaccount.com",
+  "client_id": "106078116255136585563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/platonian%40document-reader-240008.iam.gserviceaccount.com"
+}
